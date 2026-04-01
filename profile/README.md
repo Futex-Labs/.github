@@ -1,4 +1,4 @@
-![Banner Image](profile/V2.png)
+![Banner Image](V2.png)
 
 Free-range, organic software & infrastructure services. Straight to the point.
 
